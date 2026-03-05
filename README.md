@@ -15,4 +15,4 @@
 以 `root` 用户登录你的 Debian 服务器，执行以下命令即可一键完成初始化：
 
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/yellowdking/vps-setup/main/systemstart.sh](https://raw.githubusercontent.com/yellowdking/vps-setup/main/systemstart.sh))
+bash <(curl -sL "https://raw.githubusercontent.com/yellowdking/vps-setup/main/systemstart.sh")
